@@ -51,8 +51,7 @@ Tools & Packages:<br></br>
 ![](https://github-readme-stats.vercel.app/api?username=sujith-sairam&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sujith-sairam&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujith-sairam&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sujith-sairam&bg_color=000000&color=ffffff&line=7cbba6&point=0fe3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujith-sairam&bg_color=0f0e1a&color=adb7ff&line=000357&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
