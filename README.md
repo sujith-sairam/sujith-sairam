@@ -25,8 +25,8 @@
  
 🕺Stats:
 -----------------------------------------------
-![](https://github-readme-stats.vercel.app/api?username=sujith-sairam&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sujith-sairam&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sujith-sairam&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sujith-sairam&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujith-sairam&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujith-sairam&bg_color=18162c&color=7377b5&line=644267&point=b4acb1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
