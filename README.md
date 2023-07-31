@@ -1,10 +1,9 @@
-<h2 align="center" style="background-color:powderblue">A programmer for funn!</h2>
 <h3 align="left">😉 portfolio:</h3>
 <a href="https://dev-portfolio-kbrliyyii-vineeth-krishna-1234.vercel.app/">Take a peek❤️</a>
 <h2 align="left">stacks🏗</h2>
 <p align="left">
 
-<img src="https://devicon-website.vercel.app/api/python/original.svg" alt="python" width="40" height="40" />
+<img src="https://devicon-website.vercel.app/api/c#/original.svg" alt="c#" width="40" height="40" />
 <img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="js" width="40" height="40" />
 <img src="https://devicon-website.vercel.app/api/typescript/original.svg" alt="js" width="40" height="40" />
 <img src="https://devicon-website.vercel.app/api/html5/original.svg" alt="js" width="40" height="40" />
