@@ -37,6 +37,4 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=sujith-sairam&theme=apprentice&no-frame=true&no-bg=true&margin-w=4)
 ---
-
-
-[![](https://visitcount.itsvg.in/api?id=sujith-sairam&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sujith-sairam&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
