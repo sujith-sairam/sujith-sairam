@@ -3,7 +3,7 @@
 <h2 align="left">stacks🏗</h2>
 <p align="left">
 
-<img src="https://devicon-website.vercel.app/api/c#/original.svg" alt="c#" width="40" height="40" />
+<img src="https://devicon-website.vercel.app/api/c-sharp/original.svg" alt="c#" width="40" height="40" />
 <img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="js" width="40" height="40" />
 <img src="https://devicon-website.vercel.app/api/typescript/original.svg" alt="js" width="40" height="40" />
 <img src="https://devicon-website.vercel.app/api/html5/original.svg" alt="js" width="40" height="40" />
