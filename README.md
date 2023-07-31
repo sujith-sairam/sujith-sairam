@@ -1,6 +1,6 @@
-<h3 align="left">😉 portfolio:</h3>
+<h3 align="left">😉 Portfolio:</h3>
 <a href="https://sujith-sairam.github.io/">Take a peek❤️</a>
-<h2 align="left">stacks🏗</h2>
+<h2 align="left">Stacks🏗</h2>
 <p align="left">
 
 <img src="https://devicon-website.vercel.app/api/csharp/original.svg" alt="c#" width="40" height="40" />
